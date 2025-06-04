@@ -10,8 +10,7 @@ import '../styles/index.css'
 
 // components
 import Home from './components/Home';
-import Servicios from './components/Servicios';
-import Jumbotron from './components/Jumbotron';
+
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
